@@ -29,3 +29,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </p>
 <br />
+
+<p align="center">
+<img  src="https://github-readme-stats.vercel.app/api?username=Abbas4tech&show_icons=true&count_private=true&count_private=true&include_all_commits =true&theme=onedark" alt="Abbas4tech" />
+<img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas4tech&theme=nord" alt="Abbas4tech" />
+</p>
+
