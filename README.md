@@ -6,7 +6,7 @@
 <a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=Abbas4tech.Abbas4tech" alt="Vistor Badge"></a>
 </p>
 
-<img align="right" alt="GIF" height="250px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" />
 
 - 🌗 Checkout my <a target="_blank"  href="">Contact App</a> which purely Based on Vanilla `JavaScript`
 
