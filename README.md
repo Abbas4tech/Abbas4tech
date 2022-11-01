@@ -37,7 +37,6 @@
 <br />
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=Abbas4tech&show_icons=true&count_private=true&count_private=true&include_all_commits =true&theme=onedark" alt="Abbas4tech" />
 <img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas4tech&theme=nord" alt="Abbas4tech" />
 </p>
 
